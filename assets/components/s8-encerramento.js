@@ -1,6 +1,6 @@
 document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
 <!-- S8 — ENCERRAMENTO -->
-<section class="slide w-full min-h-screen relative overflow-hidden flex flex-col bg-white" id="s8" data-i="9">
+<section class="slide w-full min-h-screen relative overflow-hidden flex flex-col bg-white" id="s8" data-i="8">
   <div class="absolute top-0 left-0 right-0 h-[72px] flex items-center justify-between px-[34px] z-10 overflow-visible">
     <img src="assets/images/logotipo_branco.png" alt="Habii.tech" style="height:150px;width:auto;display:block;padding-left:0;">
     <span class="text-[11px] font-bold tracking-[.1em] uppercase text-[#8FA398]">Obrigado</span>
@@ -19,7 +19,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
     <div class="px-14 py-12 flex flex-col justify-center overflow-y-auto">
       <div class="text-[11px] font-bold tracking-[.1em] uppercase text-[#158A3E] mb-[14px]">Próximos passos</div>
       <h2 class="text-[clamp(36px,4vw,54px)] font-black leading-none tracking-[-0.03em] text-[#0C1410] mb-5">Vamos<br><em class="text-[#6EBF8B] not-italic">construir juntos?</em></h2>
-      <p class="text-[16px] text-[#5C6E64] leading-[1.78] mb-[18px]">Entre em contato para mais informações ou para agendar uma reunião e discutir o projeto do <strong class="text-[#1F2B23] font-semibold">Fazendinhas Belo Vale</strong>.</p>
+      <p class="text-[16px] text-[#5C6E64] leading-[1.78] mb-[18px]">Entre em contato para mais informações ou para agendar uma reunião e discutir o projeto da <strong class="text-[#1F2B23] font-semibold">plataforma do WorkOn</strong>.</p>
       <div class="flex flex-col gap-[10px] mt-7">
         <div class="flex items-center gap-[14px] px-4 py-[13px] bg-[#F4F8F5] border border-[#DDE8E2] rounded-[10px]">
           <div class="w-9 h-9 bg-[#0C1410] rounded-[9px] flex items-center justify-center flex-shrink-0">
