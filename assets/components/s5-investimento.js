@@ -2,7 +2,7 @@ document.getElementById("slides-container").insertAdjacentHTML(
   "beforeend",
   `
 <!-- S5 — INVESTIMENTO -->
-<section class="slide w-full min-h-screen relative overflow-hidden flex flex-col bg-[#F4F8F5]" id="s5" data-i="7">
+<section class="slide w-full min-h-screen relative overflow-hidden flex flex-col bg-[#F4F8F5]" id="s5" data-i="8">
   <div class="absolute top-0 left-0 right-0 h-[72px] flex items-center justify-between px-[34px] z-10 overflow-visible">
     <img src="assets/images/logotipo_branco.png" alt="Habii.tech" style="height:150px;width:auto;display:block;padding-left:0;">
     <span class="text-[11px] font-bold tracking-[.1em] uppercase text-[#8FA398]">Investimento</span>
@@ -49,7 +49,7 @@ document.getElementById("slides-container").insertAdjacentHTML(
               <div class="text-[10px] font-bold tracking-[.06em] uppercase text-[#158A3E]">Servidor Cloud</div>
               <div class="text-[11px] text-[#5C6E64] leading-[1.5] mt-[2px]">Alta disponibilidade + backups automáticos</div>
             </div>
-            <div class="text-[16px] font-black text-[#0C1410] tracking-[-0.02em] ml-4 shrink-0">$25<small class="text-[11px] font-normal text-[#8FA398]">/mês</small></div>
+            <div class="text-[16px] font-black text-[#0C1410] tracking-[-0.02em] ml-4 shrink-0">~$25<small class="text-[11px] font-normal text-[#8FA398]">/mês</small></div>
           </div>
           <div class="flex items-center justify-between bg-[#F4F8F5] border border-[#DDE8E2] rounded-[14px] px-4 py-3">
             <div>
